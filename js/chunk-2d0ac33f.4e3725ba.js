@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ac33f"],{1912:function(t,n,e){"use strict";e.r(n);var u=function(){var t=this,n=t.$createElement;t._self._c;return t._m(0)},c=[function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"about"},[e("h1",[t._v("角色统计")])])}],a={data:function(){return{}},mounted:function(){},methods:{}},r=a,s=e("2877"),o=Object(s["a"])(r,u,c,!1,null,null,null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0ac33f.4e3725ba.js.map
